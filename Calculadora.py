@@ -1,4 +1,3 @@
-print("Hello, World!")
 Lista = [6, 2, 8, 4, 3, 10, 5, 19, 25, 31, 30, 45, 12, 75, 100, 92]
 
 def bubble_sort(arr):
